@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "898978148736",
+    "project_id": "onlinecbt-d35d6",
+    "storage_bucket": "onlinecbt-d35d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898978148736:android:cf433b8a955959cf8e5165",
+        "android_client_info": {
+          "package_name": "com.cbtonline.ubmcbt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH1HGnZcBIttjs1Bq2dQmUTHfO1YCuqdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
